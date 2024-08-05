@@ -1,5 +1,16 @@
 {
   "dependencies": {
     "knex": "^3.1.0"
-  }
+  },
+  "name": "trabalhoback-frontend",
+  "version": "1.0.0",
+  "description": "é um sistema de gerenciamento de vendas",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
